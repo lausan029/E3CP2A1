@@ -154,6 +154,16 @@ span{
 button{
   margin-top: 1%;
 }
+
+.footer{
+  text-align: right;
+  background-color: red;
+}
+
+.footer h3{
+  padding-right: 30px;
+}
+
 @media(min-width: 481px){
   .col-md-1{
     width: 10%;
